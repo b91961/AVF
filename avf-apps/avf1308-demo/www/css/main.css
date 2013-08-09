@@ -23,7 +23,7 @@ tdh {
 }
 ul { 
 	float: left; 
-	width: 100% !important;
+	width: 80% !important;
 }
 /* iPhone Horizontal -------------------*/ 
 @media all and (min-width: 480px){  
@@ -67,4 +67,9 @@ ul {
 	width: 20% !important; 
 	} 
 }
+.ui-page .ui-content .ui-listview {
+    margin: 30px;
+    max-width: 450px;
+}​
+
 
