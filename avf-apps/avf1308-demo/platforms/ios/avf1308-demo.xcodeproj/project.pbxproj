@@ -45,7 +45,6 @@
 		4B40C93C435B42068C323828 /* CDVLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 70EFA1A51DA34B78AFEFD0FA /* CDVLocation.m */; };
 		5AA0E66D1729F45B000DC89A /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AA0E66C1729F45B000DC89A /* OpenAL.framework */; };
 		5AA0E66F1729F460000DC89A /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AA0E66E1729F460000DC89A /* ImageIO.framework */; };
-		5AEE5B35173C68D80009041E /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5AEE5B34173C68D80009041E /* CoreLocation.framework */; };
 		5B1594DD16A7569C00FEF299 /* AssetsLibrary.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B1594DC16A7569C00FEF299 /* AssetsLibrary.framework */; };
 		60FE6579D08D4F60BD10C5B7 /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F46F36761EE40BAAB755BDC /* CDVSplashScreen.m */; };
 		84880DB67FBA47A09330E208 /* CDVNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = 9220A7F99C074EF58B8C41DB /* CDVNotification.m */; };
@@ -180,7 +179,6 @@
 				301BF5C5109A6A2B0062928A /* SystemConfiguration.framework in Frameworks */,
 				305D5FD1115AB8F900A74A75 /* MobileCoreServices.framework in Frameworks */,
 				30E5649213A7FCAF007403D8 /* CoreMedia.framework in Frameworks */,
-				5AEE5B35173C68D80009041E /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -404,7 +402,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 460;
+				LastUpgradeCheck = 0460;
 			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "avf1308-demo" */;
 			compatibilityVersion = "Xcode 3.2";
